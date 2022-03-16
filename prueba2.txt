@@ -1,0 +1,7 @@
+A la fecha: Tue Mar 15 2022 21:13:15 GMT-0300 (hora de verano de Chile)
+
+        Fue realizada cotización con los siguientes datos:
+
+        Cantidad de pesos a convertir: 5000
+
+        Convertido a dolar: 6.18
